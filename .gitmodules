@@ -1,0 +1,18 @@
+[submodule "browserify"]
+	path = test/browserify
+	url = https://github.com/substack/node-browserify.git
+[submodule "yo"]
+	path = test/yo
+	url = https://github.com/yeoman/yo.git
+[submodule "underscore"]
+	path = test/underscore
+	url = https://github.com/jashkenas/underscore.git
+[submodule "codemirror"]
+	path = test/codemirror
+	url = https://github.com/codemirror/CodeMirror.git
+[submodule "backbone"]
+	path = test/backbone
+	url = https://github.com/jashkenas/backbone.git
+[submodule "express"]
+	path = test/express
+	url = https://github.com/strongloop/express.git

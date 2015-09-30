@@ -1,0 +1,12 @@
+{
+  "name": "eslint-tolerant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {
+    "denodeify": "^1.2.1",
+    "eslint": "^1.5.1"
+  }
+}
